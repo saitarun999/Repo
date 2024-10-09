@@ -1,4 +1,5 @@
-###Survey State Machine
+Survey State Machine
+
 The State Machine Diagram consists of Five States which are
 1. Created
 2. Editing in Progress
